@@ -33,7 +33,7 @@ To implement A* search, you will implement the following psuedocode, step by ste
 
 
 
-![02. A - Artificial Intelligence for Robotics-lxCCtgHk5Vs.mp4_20190920_120050.234](assets/02. A - Artificial Intelligence for Robotics-lxCCtgHk5Vs.mp4_20190920_120050.234.jpg)
+![Astar](./assets/Astar.jpg)
 
 
 
