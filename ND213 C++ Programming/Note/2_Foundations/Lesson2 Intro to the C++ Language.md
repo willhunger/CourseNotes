@@ -1,5 +1,3 @@
-[TOC]
-
 ### 1. C++ Output and Language Basics 
 
 ```C++
